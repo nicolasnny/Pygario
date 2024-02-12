@@ -16,8 +16,8 @@ Windows :
 Si Python est déjà installé sur votre ordinateur, vous pouvez sauter cette étape.
 
 Sinon, téléchargez la dernière version de Python à cette adresse: https://www.python.org/downloads/windows/
-Ensuite, ouvrez le fichier python-{version}.exe que vous venez de télécharger sur votre ordinateur.
 
+Ensuite, ouvrez le fichier python-{version}.exe que vous venez de télécharger sur votre ordinateur.
 Puis suivez les intructions d'installation.
 
 
@@ -34,7 +34,7 @@ La plupart des distributions Linux ont déjà Python installé, mais si la vôtr
 
 Installer Ursina:
 
-	Une fois que Python est installé, vous pouvez lancer cette commande dans votre invite de commande :
+Une fois que Python est installé, vous pouvez lancer cette commande dans votre invite de commande :
 
 		pip install ursina   	OU  	py -m pip install ursina
 
