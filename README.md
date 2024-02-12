@@ -1,7 +1,9 @@
 # PyGario 3D
 
 Une copie du fameux jeu `Agario` recréé de A à Z en Python, le tout **en 3D**!
-Ce projet a été fondé dans le but d'un concours (`Les trophees NSI, édition 2023`)
+Ce projet a été fondé dans le but d'un concours (`Les trophees NSI, édition 2023`) dans lequel il a remporté le prix de l'ingénierie dans la région Auvergne Rhône-Alpes
+
+Pour voir la présentation détaillée du projet: https://d1t9mwb4xrtjag.cloudfront.net/archives2023/WgrjYjICoGdOQgpO4XBcPywXr1qX3JRDvqBCt1Ny.pdf
 
 ## Guide d’installation
 
