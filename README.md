@@ -37,7 +37,7 @@ Installer Ursina:
 		pip install ursina   	OU  	py -m pip install ursina
 
 
-Enfin executer le script qui permet de lancer le jeu:
+Enfin executez le script qui permet de lancer le jeu:
 
  	bash run.sh
 
