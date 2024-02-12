@@ -1,0 +1,1 @@
+py src/__main__.py

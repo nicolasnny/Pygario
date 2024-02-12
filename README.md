@@ -1,0 +1,43 @@
+# PyGario 3D
+
+Une copie du fameux jeu `Agario` recréé de A à Z en Python, le tout **en 3D**!
+Ce projet a été fondé dans le but d'un concours (`Les trophees NSI, édition 2023`)
+
+## Guide d’installation
+
+Le jeu Pygario est écrit en Python, et utilise le module Ursina. Pour le lancer, il 	faudra premièrement installer Python, puis Ursina.
+
+Installer Python:
+
+Windows :
+
+Si Python est déjà installé sur votre ordinateur, vous pouvez sauter cette étape.
+
+Sinon, téléchargez la dernière version de Python à cette adresse: https://www.python.org/downloads/windows/
+Ensuite, ouvrez le fichier python-3.11.3-amd64.exe que vous venez de télécharger sur votre ordinateur.
+
+Puis suivez les intructions d'installation.
+
+
+
+Linux :
+	
+La plupart des distributions Linux ont déjà Python installé, mais si la vôtre 	ne l’a pas, il vous suffit d’ouvrir votre invite de commande et de taper :
+		
+		Ubuntu/Debian/Fedora → sudo apt install python3
+		Arch Linux 		    → sudo pacman -Sy python-pip
+
+
+
+
+Installer Ursina:
+
+	Une fois que Python est installé, vous pouvez lancer cette commande dans votre invite de commande :
+
+		pip install ursina   	OU  	py -m pip install ursina
+
+
+
+## Dépendances
+
+- `ursina` - **5.2.0+** - *Moteur de jeu 3D*
