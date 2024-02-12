@@ -14,7 +14,7 @@ Windows :
 Si Python est déjà installé sur votre ordinateur, vous pouvez sauter cette étape.
 
 Sinon, téléchargez la dernière version de Python à cette adresse: https://www.python.org/downloads/windows/
-Ensuite, ouvrez le fichier python-3.11.3-amd64.exe que vous venez de télécharger sur votre ordinateur.
+Ensuite, ouvrez le fichier python-{version}.exe que vous venez de télécharger sur votre ordinateur.
 
 Puis suivez les intructions d'installation.
 
